@@ -11,7 +11,7 @@
 //commenting or uncommenting this 
 //makes a "function not used" defect show up
 //pio check --skip-packages -v
-#include "ArduinoJson/Variant/VariantCompare.hpp"
+//#include "ArduinoJson/Variant/VariantCompare.hpp"
 
 // cppcheck-suppress unusedFunction
 void setup() {
